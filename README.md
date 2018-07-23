@@ -1,5 +1,7 @@
 # ZenZe
 
+![Screenshot](zenzescreenshot.jpg)
+
 ZenZe is an open-source android game with the aim to make the user relax while playing our game. 
 
 It has been developped for a course at UCD Dublin regarding Android Development. 
