@@ -14,3 +14,6 @@ The application itself will load a game with a different playstyle depending on 
 
 Clone this repository, and run the app. It's meant to run on a nexus 6, API 23, as it was part of the requirements of the assignement. 
 
+## The Paper
+
+https://github.com/Zen-Ze/Paper
